@@ -1,0 +1,44 @@
+Digital and analog gene circuits for biotechnology notes 
+--------------------------------------------------------
+
+1. Introduction 
+Biotechnology has benefited from tools developed by molecular biology to introduce 
+heterologous pathways into microbes. However to ensure that the microbes have all the necessary 
+pathways to producing a chemical is often not for any practical applications except the most
+specific such as chemical engineering. Rather a dynamic approach is needed so that the cell
+can react to different environmental conditions such as a increase in concentrations of 
+a particular enzyme...etcera, which often limits production of these chemicals. There is 
+also the problem of biological bottlenecks created by feedback enzyme inhibitor pathways. 
+
+- Most cells are static and cannot interact with their environment dynamically 
+- Metabolic pathway production of chemicals are often limited due to biological bottlenecks
+
+The problem can thus be rephrase as how do we engineer microbes with these properties and 
+what is we could ? Welcome to the world of synthetic gene circuits, the idea behind it 
+is to optimise the gene regulation of the genes responsible for producing the desired enzymes
+and to make them dynamically responsive to changes in the environment. We could thus ensure
+optimal production of chemicals by microbes in multiple environments or uncontrollable 
+environments like in large scale bioreactors. 
+
+Tools for optimisation 
+- codon optimization
+- tuning promoters 
+- ribosome binding sites (RBSs) 
+- manipulating intergenic regions knockouts and knockdowns . 
+
+However in these notes we will focus on the later dynamic behaviour in cells to multiple
+environmental conditions. 
+
+2. Digital gene circuits 
+Like digital circuits they receive an input and give a single output of either "on" or "off" 
+states which could represent the production of a chemical or not ...etcera. 
+2.1 Digital memory 
+
+2.2 Digital computation 
+2.3 Multi-input digital logic 
+
+3. Analog circuits 
+3.1 Analog circuits 
+3.2 Multi-input analog circuits 
+3.3 Digital-to-analog circuits 
+ 
