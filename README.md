@@ -1,5 +1,5 @@
 # Biology
-All your Biology related research papers
+All your Biology related research papers, please read the "The Treasure trove" before accessing it 
 
 <H1> Introduction: </H1>
 <p>Hi Eurekans, this database has been set up to easily compile all the research papers that we have used before in our research (hence considered useful) into a neat little database. As seen in the folders, they are segregated into neat folders based on category. Do note that some papers are present in multiple folders as the fields covered overlap with more than just a singular field. Please note that some of these papers are confidential and cannot be shared. This also makes the database even more valuable as you would not be able to easily find some of these papers (unless you surf the Darknet). Thank you for your time, please read below along the guidelines and procedures to easily navigate “The Treasure Trove”.</p>
